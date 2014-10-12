@@ -1,0 +1,10 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Developed by Robert Baumgartner (c)2014
+${licensePrefix}for SEW and INSY classes 
+${licensePrefix}Use outside of HTL Ottakring prohibited
+${licensePrefix}Contact: lbaum@htl-ottakring.at 
+<#if licenseLast??>
+${licenseLast}
+</#if>
